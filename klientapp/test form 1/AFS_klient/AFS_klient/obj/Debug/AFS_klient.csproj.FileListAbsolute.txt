@@ -1,0 +1,8 @@
+W:\AFS\klientapp\test form 1\AFS_klient\AFS_klient\bin\Debug\AFS_klient.exe
+W:\AFS\klientapp\test form 1\AFS_klient\AFS_klient\bin\Debug\AFS_klient.pdb
+W:\AFS\klientapp\test form 1\AFS_klient\AFS_klient\obj\Debug\AFS_klient.csprojResolveAssemblyReference.cache
+W:\AFS\klientapp\test form 1\AFS_klient\AFS_klient\obj\Debug\AFS_klient.Properties.Resources.resources
+W:\AFS\klientapp\test form 1\AFS_klient\AFS_klient\obj\Debug\AFS_klient.csproj.GenerateResource.Cache
+W:\AFS\klientapp\test form 1\AFS_klient\AFS_klient\obj\Debug\AFS_klient.exe
+W:\AFS\klientapp\test form 1\AFS_klient\AFS_klient\obj\Debug\AFS_klient.pdb
+W:\AFS\klientapp\test form 1\AFS_klient\AFS_klient\obj\Debug\AFS_klient.MainForm.resources
