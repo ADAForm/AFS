@@ -210,3 +210,8 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+AFS_server/nbproject/private/config.properties
+AFS_server/nbproject/project.xml
+AFS_server/nbproject/project.properties
+AFS_server/nbproject/private/private.xml
+AFS_server/nbproject/private/private.properties
